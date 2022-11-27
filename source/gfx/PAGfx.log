@@ -1,0 +1,23 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+4 sprites :
+  bottomcat : 256colors, 64x384, Pal : cat_Pal, -> bottomcat_Sprite
+  topcat : 256colors, 64x384, Pal : cat_Pal, -> topcat_Sprite
+  sidecat : 256colors, 64x384, Pal : cat_Pal, -> sidecat_Sprite
+  darkgreen2 : 256colors, 32x32, Pal : darkgreen2_Pal, -> darkgreen2_Sprite
+
+2 backgrounds :
+  ecranhaut : 16bit, 256x192, -> ecranhaut_Bitmap
+  ecranbas : 16bit, 256x192, -> ecranbas_Bitmap
+
+2 palettes :
+  cat_Pal, 33 colors
+  darkgreen2_Pal, 27 colors
+
+Converted in 0 minutes 0 seconds
+
+Finished !
